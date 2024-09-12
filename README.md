@@ -10,3 +10,7 @@
 - https://docs.crossplane.io/latest/getting-started/?_gl=1*zb2it8*_ga*MTA0NDA3NTIxOS4xNzI1MzY5NDMz*_ga_SFCPQYSLHY*MTcyNTM5MTA3MC4yLjAuMTcyNTM5MTA3MS4wLjAuMA..
 - https://juju.is/
 - https://charmhub.io/
+
+## terraform
+- https://www.terraform-best-practices.com/code-styling
+- https://www.youtube.com/watch?v=SPcwo0Gq9T8
